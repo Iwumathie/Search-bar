@@ -1,0 +1,13 @@
+.results-list{
+    width: 100%;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    margin-top: 20PX;
+    border-radius: 10PX;
+    box-shadow: 0 0 8px blue;
+    max-height: 300px;
+    overflow-y: auto;
+   
+
+}
